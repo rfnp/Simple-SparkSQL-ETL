@@ -1,5 +1,5 @@
 # Simple-SparkSQL-ETL
-Learning to use SparkSQL by building a simple ETL pipeline the data was taken from
+Learning to use SparkSQL by building a simple ETL pipeline, the data was taken from
 
 https://github.com/DataTalksClub/nyc-tlc-data/releases/download/fhv/fhv_tripdata_2019-01.csv.gz
 
