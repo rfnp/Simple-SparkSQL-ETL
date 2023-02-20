@@ -3,7 +3,7 @@ Learning to use SparkSQL by building a simple ETL pipeline the data was taken fr
 
 https://github.com/DataTalksClub/nyc-tlc-data/releases/download/fhv/fhv_tripdata_2019-01.csv.gz
 
-Simply run simple_sparksql.ipynb in Jupyter Notebook__
+Simply run simple_sparksql.ipynb in Jupyter Notebook\
 Note: You need to have Apache Spark installed
 
 # How it works
